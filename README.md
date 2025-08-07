@@ -1,12 +1,9 @@
 # Proyecto-dron
-Este proyecto crear una serie de instrucciones para armar un dron fpv (con vista en primera persona) con una buena relacion precio/calidad. Para esto se necesitan algúnos materiales que pueden ser comprados atraves de tiendas especialisadas o por Aliexpress.
-En esta ocación se armara un dron cuadcoptero, es decir con cuatro motores, el cual tendra helices de tres aspas de cinco pulgadas cada una. La bateria será de seis celdas (6s) y funcionara con 22.2V. Tiene un peso de Xg y un empuje aproximado de XKg.
-Los precios se listaran en dolares sin el valor del envio y hay que considerar que estos pueden fluctuar con el paso del tiempo.
+Listado de piezas con links de compra para un proyecto de dron fpv (con vista en primera persona) con una buena relacion precio/calidad.
 
 Las herramientas necesarias son:
 - Cautin y estaño para soldar
 - Alicate (idealmente pelacables)
-- Multimetro (ideal pero no necesario)
 - Destornillador
 - Llaves allen
 
@@ -32,6 +29,4 @@ Los implementos extra para volar son: (nombre, precio y link)
 
 Total: $213.12
 
-
-Ensamblado:
 
