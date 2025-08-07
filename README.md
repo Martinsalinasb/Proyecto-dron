@@ -1,5 +1,5 @@
-# Proyecto-dron
-Listado de piezas con links de compra para un proyecto de dron fpv (con vista en primera persona) con una buena relacion precio/calidad.
+# Proyecto-drone
+Listado de piezas con links de compra para un proyecto de drone fpv (con vista en primera persona) con una buena relacion precio/calidad.
 
 Las herramientas necesarias son:
 - Cautin y estaño para soldar
@@ -7,7 +7,7 @@ Las herramientas necesarias son:
 - Destornillador
 - Llaves allen
 
-Las piezas para el dron son: (nombre, precio y link)
+Las piezas para el drone son: (nombre, precio y link)
 - Marco: Source ONE V0.1, $19.85, https://es.aliexpress.com/item/32999637166.html?spm=a2g0s.12269583.0.0.2d063963bvoNmS&gatewayAdapt=glo2esp 
 - FC y ESC: SpeedyBee F405 V3 BLS 50A 30x30 FC y ESC Stack, $73.49, https://es.aliexpress.com/item/1005005561435610.html?spm=a2g0s.12269583.0.0.59af2668zGUlsb&gatewayAdapt=glo2esp
 - VTX: SpeedyBee-transmisor TX800 VTX, $25.99, https://es.aliexpress.com/item/1005003033125304.html?spm=a2g0s.12269583.0.0.4323539ceEBYJi&gatewayAdapt=glo2esp
